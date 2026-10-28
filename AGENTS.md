@@ -17,3 +17,7 @@ Keep natural-proportion raster artwork, readable narrative, 18px minimum text ex
 No analytics, booking forms, personal-data capture, accounts or participant-control functions belong in this public guide. Example prompts and filters remain page-local. External website links open in a new tab with noopener noreferrer. Preserve the Strange But True licence terms and third-party font/source rights.
 
 Run python scripts/build.py, python scripts/check.py and node --check assets/site.js after changes. Review browser layouts and interactions. Source-integrity and link checks cannot establish live deployment. Keep generated root HTML and the explicit public package in sync. The origin-root robots policy is separate; do not replace it with the project snippet.
+
+## Imagery source and content boundary
+
+Read IMAGERY-GEOMETRY.md and docs/imagery/aura-geometry-reference-board.png before creating or editing any Aura depiction. Use the actual Matrix horn-torus lattice and selected-shell/nested views; do not infer its geometry from previous AI artwork. The original three proposal documents and sixty-day teacher PDF continue to drive written content. Later geometry/implementation references inform imagery only. Preserve current public wording and source readings during image corrections; update only artwork, image descriptions/references and production provenance/guidance.
