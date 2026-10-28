@@ -25,6 +25,8 @@ jobs:
         run: python scripts/build.py
       - name: Check source fidelity and links
         run: python scripts/check.py
+      - run: python scripts/check_matrix_samples.py
+      - run: node scripts/check_native_samples.mjs
       - name: Check browser script
         run: node --check assets/site.js
       - uses: actions/configure-pages@v5
