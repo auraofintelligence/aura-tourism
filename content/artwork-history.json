@@ -1,0 +1,47 @@
+{
+  "versions": [
+    {
+      "version": "initial-v1",
+      "retired_on": "2026-10-28",
+      "reason": "User requested reference-led cinematic Protopian scenes with ethical technology, personality and a fair go in the age of superintelligence. Earlier purple-clothing draft edits were not promoted.",
+      "images": [
+        {
+          "key": "coastal-day",
+          "file": "assets/images/coastal-day.webp",
+          "alt": "Two adult visitors in conversation by an imagined Queensland island shoreline.",
+          "prompt": "Use case: photorealistic-natural. Asset: original editorial concept image for Aura Tourism, a proposed Australian personal-intelligence travel website. Wide natural 3:2 landscape. A quiet Queensland sand island shoreline inspired by North Stradbroke Island: turquoise water, pale sand, coastal pandanus, low dune boardwalk in the foreground. Two adult visitors, one older woman and one younger man, pause in relaxed conversation, a small notebook in hand, no conspicuous technology. Candid documentary composition, warm clear morning light, sea teal and coral clothing, authentic unpolished human texture. Place and human connection are equally important. No logos, no text, no icons, no invented landmarks, no futuristic equipment. Concept scene, not a real photographed service.",
+          "tool": "built-in imagegen",
+          "status": "Original AI-generated concept artwork; imagined scene, not a service, event or exact location.",
+          "original_sha256": "8bc8f57553f6316674cb3e24cc90b48197ef5fa448ccb143048132d79969807c",
+          "sha256": "d71b1413b9f9489ce675cfb834b706f9060969277ade0b8c622c17eb24ce5d1d",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "key": "music-evening",
+          "file": "assets/images/music-evening.webp",
+          "alt": "An imagined mixed-age coastal gathering enjoying acoustic music together.",
+          "prompt": "Use case: photorealistic-natural. Asset: original editorial concept image for Aura Tourism. Wide 3:2. An intimate open-air coastal community music evening in southeast Queensland. A small group of adults of mixed ages, including a wheelchair user naturally joining the same gathering, enjoying an acoustic guitar and shared picnic tables under simple warm string lights. Natural timber, low grasses, sea horizon in the distance, coral and warm sun-gold accents. Quietly joyful, candid editorial photography, human scale, no stage spectacle, no costume or sacred cultural imagery, no branding, no text, no phone screens, no fantasy AI effects. This is an imagined future community encounter, not a real event.",
+          "tool": "built-in imagegen",
+          "status": "Original AI-generated concept artwork; imagined scene, not a service, event or exact location.",
+          "original_sha256": "24f87d2d52b5361e9b574e6553116acd5b6ae8c69dc727679d34a4330d6f8696",
+          "sha256": "3a23f77dc8e4b3bb5e04a8341ff1f4acb8d875b9fe41a78de3bee552d6e7f76d",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "key": "nature-reflection",
+          "file": "assets/images/nature-reflection.webp",
+          "alt": "An imagined visitor reflecting in a notebook at a Queensland coastal lookout.",
+          "prompt": "Use case: photorealistic-natural. Asset: original editorial concept image for Aura Tourism. Natural 3:2 horizontal composition. An adult woman taking a restful pause on a public coastal lookout bench in Queensland, open notebook on her knee, looking at the ocean through coastal bush. In the near foreground a small group walks gently along a timber path, one person with a walking stick. Teal sea, sunlit ivory sky, soft eucalyptus green and subtle coral fabric. Candid natural editorial photography, warm late-afternoon light, detailed real surfaces, spacious calm composition. No text, logos, maps, health claims, sacred imagery, futuristic devices or neon effects. Original imagined scene about a visitor deciding what a place means to them.",
+          "tool": "built-in imagegen",
+          "status": "Original AI-generated concept artwork; imagined scene, not a service, event or exact location.",
+          "original_sha256": "3c9d25d01c9223353787b3a75784bee7553ec7e9d5c0a44516f6d0c001435594",
+          "sha256": "ee7f3680aeff746025d95a134ec7c264ff0e80783e26a7b7cecdd179fe7db693",
+          "width": 1536,
+          "height": 1024
+        }
+      ]
+    }
+  ]
+}

@@ -1,38 +1,104 @@
 [
   {
     "key": "coastal-day",
-    "file": "assets/images/coastal-day.webp",
-    "alt": "Two adult visitors in conversation by an imagined Queensland island shoreline.",
-    "prompt": "Use case: photorealistic-natural. Asset: original editorial concept image for Aura Tourism, a proposed Australian personal-intelligence travel website. Wide natural 3:2 landscape. A quiet Queensland sand island shoreline inspired by North Stradbroke Island: turquoise water, pale sand, coastal pandanus, low dune boardwalk in the foreground. Two adult visitors, one older woman and one younger man, pause in relaxed conversation, a small notebook in hand, no conspicuous technology. Candid documentary composition, warm clear morning light, sea teal and coral clothing, authentic unpolished human texture. Place and human connection are equally important. No logos, no text, no icons, no invented landmarks, no futuristic equipment. Concept scene, not a real photographed service.",
+    "version": "protopia-v3",
+    "file": "assets/images/coastal-day-protopia-v3.webp",
+    "alt": "Fictional island visitors and a local guide exploring a personal-Aura display and optional XR equipment beside a vivid Queensland coast.",
+    "alt_sha256": "b13235f926d68eddb67d37f4e360f0ed2a20b3da4b83ca9a37699b5726aec62e",
+    "prompt": "Create a NEW original vivid cinematic photorealistic concept image for Aura Tourism. The supplied images are STYLE AND CONCEPT REFERENCES ONLY: reference 1 supplies an approachable public Verse Box technology encounter, reference 2 supplies the energy and real beauty of Straddie beach life, reference 3 supplies a visible human-serving capability future. Do not reproduce their composition, people, lettering, logos, moon collage or official marks. New 3:2 landscape scene: an active island arrival and public discovery space beside a beautiful turquoise Queensland coast, inspired by Minjerribah. In the foreground a lively female local guide in a saturated purple technical-casual jacket and an older male visitor in electric-blue travel clothes discuss a tablet; a younger adult visitor in amethyst sportswear lifts lightweight XR glasses to ask a question, clearly choosing whether to take part. A personal Aura is represented on the tablet as a crisp coloured torus model surrounded by a few image tiles, no readable text. Contemporary purple-canopied open learning kiosk, purposeful headset/tablet equipment, a discreet small service robot carrying equipment in the midground, joyful visitors learning where to go. Real people with character, gestures and curiosity, not stock corporate posing. Sun-gold physical edge accents and vivid purple fabrics with blue contrast. Natural green coastal vegetation, white sand, cyan sea and realistic skin remain varied and unfiltered. Warm natural sun, rich cinematic depth, clear visual hierarchy and energetic human agency. This is an imaginative Protopian future concept about ethical personal AI and a fair go, not an operating service. No giant holograms, no magical aura around bodies, no purple wash/filter, no fake skyline, no logos, party emblems, Games branding, signs, numbers or text.",
     "tool": "built-in imagegen",
-    "status": "Original AI-generated concept artwork; imagined scene, not a service, event or exact location.",
-    "original_sha256": "8bc8f57553f6316674cb3e24cc90b48197ef5fa448ccb143048132d79969807c",
-    "sha256": "d71b1413b9f9489ce675cfb834b706f9060969277ade0b8c622c17eb24ce5d1d",
+    "generation_mode": "New replacement generated from style/concept references; earlier clothing recolours were not promoted.",
+    "input_references": [
+      {
+        "basename": "ChatGPT Image 27 Oct 2026, 20_50_33.png",
+        "role": "User-selected style and concept reference; new composition and fictional people.",
+        "sha256": "cc1d38a95560824d1f6c578ea33f02c698c37b134d1319cd71c471429c6be789"
+      },
+      {
+        "basename": "ChatGPT Image 24 Oct 2026, 23_30_11.png",
+        "role": "User-selected style and concept reference; new composition and fictional people.",
+        "sha256": "041f9ea794090f3aa36744675cecdde42e37ec3be826d8efacfe0ce8a1875f5e"
+      },
+      {
+        "basename": "choose-your-own-protopia-landscape-v1.png",
+        "role": "User-selected style and concept reference; new composition and fictional people.",
+        "sha256": "3c210ea98518df0f499489104729282d0e7f811b9a8d3fbed8d71aa1da3cfcff"
+      }
+    ],
+    "status": "Original AI-generated Protopian concept artwork. Fictional people, places and future interfaces; no operating tourism service, product integration, event, treatment, booking or official partnership is claimed. Natural skin, coast and lighting are retained with purple in physical scene details.",
+    "original_sha256": "824b94ac0314b28a01885fd85528b6194bd15eb0bcad7afdd9566be8a1ddd0ed",
+    "raw_artifact_basename": "exec-8dc69eb5-11a5-413e-a0f4-8e5190388df8.png",
+    "sha256": "8ca1fd3a9dfd5b803100eaf7511567e25f11930a6b512c70e4ff2b60137bcaad",
     "width": 1536,
-    "height": 1024
+    "height": 1024,
+    "previous_versions": "content/artwork-history.json"
   },
   {
     "key": "music-evening",
-    "file": "assets/images/music-evening.webp",
-    "alt": "An imagined mixed-age coastal gathering enjoying acoustic music together.",
-    "prompt": "Use case: photorealistic-natural. Asset: original editorial concept image for Aura Tourism. Wide 3:2. An intimate open-air coastal community music evening in southeast Queensland. A small group of adults of mixed ages, including a wheelchair user naturally joining the same gathering, enjoying an acoustic guitar and shared picnic tables under simple warm string lights. Natural timber, low grasses, sea horizon in the distance, coral and warm sun-gold accents. Quietly joyful, candid editorial photography, human scale, no stage spectacle, no costume or sacred cultural imagery, no branding, no text, no phone screens, no fantasy AI effects. This is an imagined future community encounter, not a real event.",
+    "version": "protopia-v3",
+    "file": "assets/images/music-evening-protopia-v3.webp",
+    "alt": "Fictional coastal performers and a wheelchair user making music together, with beach sport and personal-Aura learning concepts nearby.",
+    "alt_sha256": "dfd677271754446f9259f3d6e22a9d0316f8be11ca5ed49b3f742c18150d85ac",
+    "prompt": "Generate a NEW original cinematic photorealistic 3:2 landscape for Aura Tourism. The three supplied images are concept/style inspiration: beach sport/music/relationships, expressive creative performance, and bold purple personality with electric-blue/gold energy. Do not copy their people or layout and do not reproduce any lettering, flags, official symbols or logos. Build one coherent lively coastal learning festival scene on a Queensland beachside accessible timber platform in the late afternoon. Foreground: a charismatic woman performer in a tailored deep-purple jacket over contemporary casual clothing sings with a handheld microphone while smiling towards an adult guitarist in an amethyst shirt; a young adult wheelchair user wearing electric blue experiments with a small music-controller surface beside them, sharing the creative activity rather than watching from the edge. Another adult tries a rhythm pattern with a mentor. Behind them, a beach volleyball rally, surfers and friends by the turquoise ocean make music/sport/nature feel like choices within a joyful life. On the nearby learning table a small physical display shows an abstract personal-Aura torus and waveform tiles, a restrained purposeful technology detail. Vibrant purple clothing and practical stage canopy/cloth accents, natural sun-gold light and electric-blue contrasts; natural skin, sea, sand, plants and timber. Cinematic personality and joy, ambitious Protopian human future through real encounters, not a generic eco-retreat, not sterile corporate event. No cosmic collage, no sci-fi skyline, no giant holograms, no purple colour cast or overall wash. No lettering, text, event names, logos, political/official Games branding. All people and setting fictional; no claim of an operating festival or product.",
     "tool": "built-in imagegen",
-    "status": "Original AI-generated concept artwork; imagined scene, not a service, event or exact location.",
-    "original_sha256": "24f87d2d52b5361e9b574e6553116acd5b6ae8c69dc727679d34a4330d6f8696",
-    "sha256": "3a23f77dc8e4b3bb5e04a8341ff1f4acb8d875b9fe41a78de3bee552d6e7f76d",
+    "generation_mode": "New replacement generated from style/concept references; earlier clothing recolours were not promoted.",
+    "input_references": [
+      {
+        "basename": "ChatGPT Image 24 Oct 2026, 23_30_11.png",
+        "role": "User-selected style and concept reference; new composition and fictional people.",
+        "sha256": "041f9ea794090f3aa36744675cecdde42e37ec3be826d8efacfe0ce8a1875f5e"
+      },
+      {
+        "basename": "we-go-beyond-female-landscape-v1.png",
+        "role": "User-selected style and concept reference; new composition and fictional people.",
+        "sha256": "e52b5bb2792e7c82fb050183b42b875b92b9609197480908367fe663ab9c2b5d"
+      },
+      {
+        "basename": "ChatGPT Image 28 Oct 2026, 00_37_51.png",
+        "role": "User-selected style and concept reference; new composition and fictional people.",
+        "sha256": "131fa3042a18af59ae375dfcef83e2e3b63c2863127506805a38a0ceb38401a5"
+      }
+    ],
+    "status": "Original AI-generated Protopian concept artwork. Fictional people, places and future interfaces; no operating tourism service, product integration, event, treatment, booking or official partnership is claimed. Natural skin, coast and lighting are retained with purple in physical scene details.",
+    "original_sha256": "69f73cb253ab2679cfacbdbb064f64f68122354efe0ff02073932e10924a16ab",
+    "raw_artifact_basename": "exec-88e49f9e-8046-41bf-8b01-6d56d06a20fe.png",
+    "sha256": "052b08a57673c0332f6a09854e852d1703fcf63b4a18a3696afabd2ccec6d7d9",
     "width": 1536,
-    "height": 1024
+    "height": 1024,
+    "previous_versions": "content/artwork-history.json"
   },
   {
     "key": "nature-reflection",
-    "file": "assets/images/nature-reflection.webp",
-    "alt": "An imagined visitor reflecting in a notebook at a Queensland coastal lookout.",
-    "prompt": "Use case: photorealistic-natural. Asset: original editorial concept image for Aura Tourism. Natural 3:2 horizontal composition. An adult woman taking a restful pause on a public coastal lookout bench in Queensland, open notebook on her knee, looking at the ocean through coastal bush. In the near foreground a small group walks gently along a timber path, one person with a walking stick. Teal sea, sunlit ivory sky, soft eucalyptus green and subtle coral fabric. Candid natural editorial photography, warm late-afternoon light, detailed real surfaces, spacious calm composition. No text, logos, maps, health claims, sacred imagery, futuristic devices or neon effects. Original imagined scene about a visitor deciding what a place means to them.",
+    "version": "protopia-v3",
+    "file": "assets/images/nature-reflection-protopia-v3.webp",
+    "alt": "Fictional visitors reviewing chosen memories and an Aura model beside a coastal maker space, with robotics and an observatory research concept on display.",
+    "alt_sha256": "f55988de0acbd86636bb1ce99a083285c71f1f26f24dc0c1a0c154c7a41b987f",
+    "prompt": "Create a NEW original vivid cinematic photorealistic 3:2 image for Aura Tourism. References are style/concept inputs only: an inviting personal technology encounter, a human-serving capability future, and creative ambition with a long horizon. Invent new people and composition; do not copy reference lettering, official marks, moon panorama, buildings or characters. Scene: a contemporary coastal learning terrace overlooking a natural Queensland headland and bright turquoise ocean. Foreground a thoughtful adult woman with short curly hair in a rich plum-purple jacket, and a male friend in a blue shirt, actively review a chosen memory and place context on a slim tabletop display; her hand selects an image tile, she is engaged and in control, not a passive patient. The screen clearly contains a coloured torus personal-Aura model, a few pictorial memory tiles of music and sport, and one bounded educational concept visual of an observatory/habitat research project, without readable text. A small physical prototype/robotic teaching model sits on the table, connecting reflection with growing practical capability. Behind them an open bright maker-learning room has a couple of adults doing purposeful creative work, while another person rests comfortably looking out to sea. Near-future optimism and fair access, human agency, personality, curiosity and room for rest. Purple clothing and a restrained physical amethyst table/device accent; electric blue and sun-gold contrasting details. Retain natural varied ocean, landscape, foliage and skin, warm realistic sunlight, clear expressive faces and cinematic depth. Not a quiet linen/notebook lifestyle photograph, not eco-spa imagery, not a sterile corporate office, and not a giant cosmic collage. No purple filter/wash or coloured light over the whole scene; no logos, titles, numbers, written signs, official Games marks or treatment claims. Fictional Protopian concept rather than a claimed working integration.",
     "tool": "built-in imagegen",
-    "status": "Original AI-generated concept artwork; imagined scene, not a service, event or exact location.",
-    "original_sha256": "3c9d25d01c9223353787b3a75784bee7553ec7e9d5c0a44516f6d0c001435594",
-    "sha256": "ee7f3680aeff746025d95a134ec7c264ff0e80783e26a7b7cecdd179fe7db693",
+    "generation_mode": "New replacement generated from style/concept references; earlier clothing recolours were not promoted.",
+    "input_references": [
+      {
+        "basename": "ChatGPT Image 27 Oct 2026, 20_50_33.png",
+        "role": "User-selected style and concept reference; new composition and fictional people.",
+        "sha256": "cc1d38a95560824d1f6c578ea33f02c698c37b134d1319cd71c471429c6be789"
+      },
+      {
+        "basename": "choose-your-own-protopia-landscape-v1.png",
+        "role": "User-selected style and concept reference; new composition and fictional people.",
+        "sha256": "3c210ea98518df0f499489104729282d0e7f811b9a8d3fbed8d71aa1da3cfcff"
+      },
+      {
+        "basename": "we-go-beyond-female-landscape-v1.png",
+        "role": "User-selected style and concept reference; new composition and fictional people.",
+        "sha256": "e52b5bb2792e7c82fb050183b42b875b92b9609197480908367fe663ab9c2b5d"
+      }
+    ],
+    "status": "Original AI-generated Protopian concept artwork. Fictional people, places and future interfaces; no operating tourism service, product integration, event, treatment, booking or official partnership is claimed. Natural skin, coast and lighting are retained with purple in physical scene details.",
+    "original_sha256": "d0bad71a62ef6fff3c51b05d84138e2eb32154d3d8ab9f7b6087bb8789ef0e10",
+    "raw_artifact_basename": "exec-316f9c05-72d2-4cce-95ff-188e6c61c646.png",
+    "sha256": "aec741e3d1f229918e934bfbc927580de20c288a5815a7977f8e1469e67844ea",
     "width": 1536,
-    "height": 1024
+    "height": 1024,
+    "previous_versions": "content/artwork-history.json"
   }
 ]

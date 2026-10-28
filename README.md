@@ -14,6 +14,8 @@ The unchanged original is `sources/originals/Aura_of_Intelligence_Tourism_and_Do
 
 The web edition is dated 28 October 2026. Selected primary-source checks are recorded separately in `content/source-checks.json`; the check date does not advance the source document's own date. The original reference descriptions and exact source labels remain intact. A linked publisher may update its information independently.
 
+The current editorial presentation foregrounds a fair go in the age of superintelligence: ethical engagement with AI, human agency and the qualified self developed through enjoyable travel encounters. Its clean neutral interface uses plum/violet actions with blue and gold accents. Three reference-led Protopia v3 concepts show public discovery, shared music/sport learning and reflection connected with growing capability. Active prompts and checksums are in `content/artwork.json`; original artwork and metadata remain preserved through `content/artwork-history.json`. Source readings and protected document, font and licence baselines are unchanged.
+
 ## Scope of the proposal
 
 The proposal is not an operating booking service, tourism product, health service, official Games programme or announcement of funded pilots or partnerships. Existing tools, source examples, proposed integrations and future ambitions are distinguished. C-Hours recognise verified voluntary human time, have no monetary equivalent and remain separate from wages, costs and outcomes. Chosen rest is legitimate. Cultural authority, access arrangements, consent and actual service responsibilities remain with the relevant people and organisations.
