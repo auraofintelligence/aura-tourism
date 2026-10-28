@@ -1,0 +1,25 @@
+{
+  "status": "passed",
+  "public_routes": 16,
+  "html_files": 17,
+  "source_nonempty_paragraphs": 455,
+  "source_tables": 8,
+  "unique_source_urls": 42,
+  "artworks": 3,
+  "checks": [
+    "local href and src destinations",
+    "all fragments",
+    "one h1 per page",
+    "full native all-pages menu",
+    "external tab and rel policy",
+    "all source paragraph wording and coverage",
+    "all source table cells and order",
+    "original source/font/licence/artwork checksums",
+    "canonical URLs and sitemaps",
+    "404 noindex",
+    "crawler-policy presence",
+    "public package equality",
+    "no browser storage or network capture"
+  ],
+  "errors": []
+}

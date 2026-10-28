@@ -1,0 +1,13 @@
+{
+  "checked":"2026-10-28",
+  "scope":"Selected factual and high-change references rechecked against primary publishers. The complete reading retains the author's 27 October 2026 source edition; this register does not claim a fresh review of every source.",
+  "checks":[
+    {"id":"R1","result":"The publisher's June quarter 2026 page supports 27.1 million domestic overnight trips and 74.2 million domestic day trips. Counts describe trips, not unique people."},
+    {"id":"R7","result":"The operator provides date-specific base timetables and directs travellers to its booking and service-status pages for actual availability. This site republishes no departure times or fares."},
+    {"id":"R12","result":"The ACCC describes consumer guarantees and circumstance-dependent travel remedies. The reading does not promise an automatic refund for every disruption."},
+    {"id":"R13","result":"The OAIC's current APP overview covers collection, use, disclosure, accountability, integrity, access and correction for covered organisations and agencies."},
+    {"id":"R22","result":"Queensland Government's organising-committee page identifies Games planning, event coordination and volunteer recruitment as committee responsibilities. No Aura recruitment or partnership is established."},
+    {"id":"R27","result":"The ACCC-hosted Lonergan Research report is dated February 2025; the 94% smartphone observation belongs to its 2024 fieldwork and 14-and-older population, not a new 2026 survey."},
+    {"id":"R28","result":"The eSafety hub states that the social media age restrictions took effect on 10 December 2025. This is policy context, not an endorsement of the proposal."}
+  ]
+}

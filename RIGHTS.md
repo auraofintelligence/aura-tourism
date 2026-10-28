@@ -1,0 +1,13 @@
+# Source and asset rights
+
+Original project material is copyright 2026 Luke Nathan Hayes / Strange But True / Aura of Intelligence and uses the Strange But True Public Source Licence in LICENCE.md. Its terms are adapted from the aura-verse-box project by changing only the project name and project URL.
+
+The original supplied document, `sources/originals/Aura_of_Intelligence_Tourism_and_Domestic_Travel.docx`, is preserved byte for byte. The author is Luke Nathan Hayes; its source edition is 27 October 2026. Its checksum, paragraph/table counts and source notice are in `content/source-register.json`. Original readings retain their wording, source labels and hyperlink destinations. Public publishers' pages and research retain their own copyright and usage terms; links are not endorsements or partnership claims.
+
+The three original AI-generated concept images were produced with the built-in imagegen tool for this website. `content/artwork.json` records complete prompts, alt text, output dimensions and SHA-256 checksums. WebP is an optimised conversion of the selected original raster output. They depict imagined encounters, not actual operators, events, visitors or exact site conditions. No partner-site artwork was copied. The small PNG favicon is a resized, padded conversion of the coastal concept image.
+
+DM Sans and Manrope font files were copied from the locally held C-Hour-introduction project with their SIL Open Font License files preserved in `assets/fonts/`. Their original font-source CSS remains alongside them. File checksums are in the source register. The display serif uses the reader's local Georgia/Times family; no proprietary serif font is distributed.
+
+Website implementation and editorial introductions were prepared with Codex under Luke Nathan Hayes's direction. Earlier reference projects retain their own authorship and credits. The reference family supplies navigation, presentation and relationship context; it does not supply copied third-party images.
+
+Crawler discovery and the voluntary llms.txt guide grant no additional reuse or AI-training permission. The project-root robots file documents scoped preferences. Effective GitHub Pages crawler policy belongs at the origin root, which this build does not modify. A narrowly scoped merge snippet is provided at `.github/robots-root-snippet.txt`.

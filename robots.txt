@@ -1,0 +1,26 @@
+# Aura Tourism project discovery policy, reviewed 28 October 2026.
+# For GitHub project Pages, effective directions belong at the origin root.
+# Merge .github/robots-root-snippet.txt into the account-root policy when authorised.
+# This project file is informational at /aura-tourism/robots.txt.
+# Discovery grants no additional reuse, commercial or AI-training rights.
+# https://auraofintelligence.github.io/aura-tourism/LICENCE.md
+
+User-agent: *
+Allow: /aura-tourism/
+
+User-agent: OAI-SearchBot
+Allow: /aura-tourism/
+
+User-agent: Claude-SearchBot
+Allow: /aura-tourism/
+
+User-agent: GPTBot
+Disallow: /aura-tourism/
+
+User-agent: ClaudeBot
+Disallow: /aura-tourism/
+
+User-agent: Google-Extended
+Disallow: /aura-tourism/
+
+Sitemap: https://auraofintelligence.github.io/aura-tourism/sitemap.xml

@@ -1,0 +1,23 @@
+# Scoped Aura Tourism addition for https://auraofintelligence.github.io/robots.txt.
+# Merge into existing corresponding user-agent groups. Preserve other projects' rules.
+# Do not upload this snippet as a replacement for the account-root robots.txt.
+
+User-agent: *
+Allow: /aura-tourism/
+
+User-agent: OAI-SearchBot
+Allow: /aura-tourism/
+
+User-agent: Claude-SearchBot
+Allow: /aura-tourism/
+
+User-agent: GPTBot
+Disallow: /aura-tourism/
+
+User-agent: ClaudeBot
+Disallow: /aura-tourism/
+
+User-agent: Google-Extended
+Disallow: /aura-tourism/
+
+Sitemap: https://auraofintelligence.github.io/aura-tourism/sitemap.xml

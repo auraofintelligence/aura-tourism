@@ -1,0 +1,25 @@
+# Aura Tourism
+
+A public personal-intelligence tourism proposal by Luke Nathan Hayes. Source edition 27 October 2026; web edition 28 October 2026.
+
+This is a proposal, not a booking service, live participant system, official Games programme or claim of partnership. The original source and its 42 distinct linked destinations are preserved. C-Hours are non-monetary recognition of verified voluntary human time. Chosen rest is legitimate. Original material uses the Strange But True Public Source Licence; third-party rights remain separate. This voluntary guide grants no additional reuse or AI-training rights.
+
+- [Home](https://auraofintelligence.github.io/aura-tourism/)
+- [Meet your Aura](https://auraofintelligence.github.io/aura-tourism/personal-aura.html)
+- [Two travel stories](https://auraofintelligence.github.io/aura-tourism/travel-stories.html)
+- [Reflection and memory](https://auraofintelligence.github.io/aura-tourism/reflection-and-memory.html)
+- [Music, sport, culture and nature](https://auraofintelligence.github.io/aura-tourism/music-sport-culture-nature.html)
+- [Access and participation](https://auraofintelligence.github.io/aura-tourism/accessible-visits.html)
+- [Hosts, volunteers and C-Hours](https://auraofintelligence.github.io/aura-tourism/hosts-and-community.html)
+- [Services, rights and data](https://auraofintelligence.github.io/aura-tourism/choices-and-responsibilities.html)
+- [Straddie, Redlands and Brisbane](https://auraofintelligence.github.io/aura-tourism/connected-places.html)
+- [Australia and Brisbane 2032](https://auraofintelligence.github.io/aura-tourism/brisbane-2032.html)
+- [Public agencies and resources](https://auraofintelligence.github.io/aura-tourism/public-programme.html)
+- [Evaluation and invitation](https://auraofintelligence.github.io/aura-tourism/develop-together.html)
+- [Sources and original document](https://auraofintelligence.github.io/aura-tourism/sources.html)
+- [Connected projects](https://auraofintelligence.github.io/aura-tourism/projects.html)
+- [Licence and rights](https://auraofintelligence.github.io/aura-tourism/licence.html)
+- [Site map](https://auraofintelligence.github.io/aura-tourism/site-map.html)
+
+- [Licence](https://auraofintelligence.github.io/aura-tourism/LICENCE.md)
+- [Source register](https://auraofintelligence.github.io/aura-tourism/content/source-register.json)

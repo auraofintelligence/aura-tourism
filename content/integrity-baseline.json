@@ -1,0 +1,20 @@
+{
+  "source_sha256": "811f7690e5690af08f74fec4e1031ffe517dd6a6fd0976bd248e006ee56cbe22",
+  "licence_sha256": "30df7ca604fbef80a2c53dae3027be17fcd6a5787df607ddab2be08e2a4728e7",
+  "font_files": {
+    "DM-Sans-OFL.txt": "2af94f4fb533be8fa23282eb33e08ca311ddf47c2f32777e2040b282deeec65c",
+    "font-1.ttf": "b0ae3e89a7d3ef2b1838bb4b1ceb0b17cc3435af061eee809d76aa623ff116e9",
+    "font-2.ttf": "376427b5322148d8de1e03f263bcca4935a2d60ba71d9f94f4947ab664c711ae",
+    "font-3.ttf": "b79a2ea7a38f33fd96a282fadb9ce97626bb0724a44d21075859f0e50239993a",
+    "font-4.ttf": "2a8e7f713ee79fbccdef3cef5c787aff47580299f7da60144961e7db2ec08211",
+    "font-5.ttf": "a13d9b41b0a471ce58f0e46d377fa3cc76615e4632c3b15eb397caadf7a13f0a",
+    "font-6.ttf": "f433e5d333be1128d8ec8a28b8aadd0314d10e14e4105406076666bc830fc15d",
+    "font-7.ttf": "6bad1a774228464cc88b8b0271555b266f7a3c64a7bedf15e165fdab4f6ac0ce",
+    "font-8.ttf": "b9584e099e0e7f1e1e914c3037aabb9010c50346a3ce8df5eeeeecc0563044d8",
+    "font-9.ttf": "b8f802f05b322a7345805f5b89f8bb976604cc719a91530918d5ce3c47160950",
+    "fonts.css": "bf512ebf0b76151de89ebc0e75e8b0fb175f42ebfd33577489df63c634250cfc",
+    "google-fonts-source.css": "08f35169cd03c055fa58fadee1dd6d75c6ba153fb6c0bbfc76e2e0c25c290ceb",
+    "Manrope-OFL.txt": "58172e0c0fac2cda8a37b348164bb55e44b0e69051e557e92b1d3f6910141f7b"
+  },
+  "notice": "Reviewed original and rights baselines. Never update these values merely to make an unexplained change pass."
+}
