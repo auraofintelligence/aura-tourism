@@ -1,3 +1,4 @@
+from visual_examples import enhance_visual_document
 """Build a complete, readable public edition from the preserved source DOCX."""
 from pathlib import Path
 import json, html, re, hashlib, shutil
@@ -42,6 +43,7 @@ def page(slug,title,intro,body,image='coastal-day',noindex=False):
 <html lang="en-AU"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{esc(title)} | Aura Tourism</title><meta name="description" content="{esc(intro)}"><meta name="theme-color" content="#592681">{robots}<link rel="canonical" href="{canonical}"><meta property="og:title" content="{esc(title)} | Aura Tourism"><meta property="og:description" content="{esc(intro)}"><meta property="og:type" content="website"><meta property="og:url" content="{canonical}"><meta property="og:image" content="{BASE}{ART[image or 'coastal-day']['file']}"><meta property="og:image:alt" content="{esc(ART[image or 'coastal-day']['alt'])}"><meta name="twitter:card" content="summary_large_image"><link rel="icon" type="image/png" href="favicon.png"><link rel="preload" as="font" type="font/ttf" crossorigin href="assets/fonts/font-1.ttf"><link rel="stylesheet" href="assets/site.css"><script src="assets/site.js" defer></script></head><body id="top"><a class="skip" href="#main">Skip to content</a>{nav(slug)}<main id="main">{body}</main>{footer(slug)}</body></html>'''
     if noindex:
         text=text.replace('<head>','<head><base href="'+BASE+'">',1)
+    text=enhance_visual_document(slug,text)
     (ROOT/f'{slug}.html').write_text(text,encoding='utf-8')
 
 def figure(key,wide=False,eager=False):

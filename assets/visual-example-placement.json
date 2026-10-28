@@ -1,0 +1,54 @@
+{
+  "personal-aura": [
+    {
+      "module": "learning",
+      "mode": "layers",
+      "example": "travel",
+      "after_id": "p8",
+      "reason": "Original minimum viable self and selected digital twin."
+    },
+    {
+      "module": "learning",
+      "mode": "inside",
+      "example": "travel",
+      "after_id": "p9",
+      "reason": "Original choice over data, storage, use and sharing."
+    }
+  ],
+  "reflection-and-memory": [
+    {
+      "module": "everyday",
+      "mode": "meaning",
+      "example": "travel",
+      "after_id": "p86",
+      "reason": "Original questioning suggestions, records and changed interpretation."
+    }
+  ],
+  "connected-places": [
+    {
+      "module": "everyday",
+      "mode": "place",
+      "example": "travel",
+      "after_id": "p244",
+      "reason": "Original agreed access to useful place information and authorised services."
+    }
+  ],
+  "hosts-and-community": [
+    {
+      "module": "everyday",
+      "mode": "place",
+      "example": "event",
+      "after_id": "p171",
+      "reason": "Original sensor measurement, recipients and interpretation."
+    }
+  ],
+  "public-programme": [
+    {
+      "module": "everyday",
+      "mode": "mates",
+      "example": "event",
+      "after_id": "p317",
+      "reason": "Original local activities, agency in AI-enabled places and staged trials."
+    }
+  ]
+}
